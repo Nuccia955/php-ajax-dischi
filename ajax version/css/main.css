@@ -13,10 +13,12 @@ header {
     padding: 10px 0;
     background-color: #172430;
 }
+
 header .logo {
     max-width: 1170px;
     margin: 0 auto;
 }
+
 header .logo img {
     max-width: 50px;
 }
